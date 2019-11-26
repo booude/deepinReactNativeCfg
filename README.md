@@ -1,7 +1,7 @@
 # deepinReactNativeCfg
 Run
 
-`wget --show-progress https://raw.githubusercontent.com/booude/deepinReactNativeCfg/master/rndeepin.sh | bash`
+`wget -O - show-progress https://raw.githubusercontent.com/booude/deepinReactNativeCfg/master/rndeepin.sh | bash`
 
 Android Studio installs the latest Android SDK by default. Building a React Native app with native code, however, requires the Android 9 (Pie) SDK in particular. Additional Android SDKs can be installed through the SDK Manager in Android Studio.
 
